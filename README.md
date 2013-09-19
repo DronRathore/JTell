@@ -18,4 +18,4 @@ What are the features?
 =====================
 
 You can have any number of  nested inner classes i will tell you how many of them are, it will tell you the number of
-functions in your code and the number variables that you have declared/used.
+functions in your code and the number variables that you have declared.
